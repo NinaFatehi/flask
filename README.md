@@ -1,4 +1,4 @@
 # flask
-A practice of flask microservice!
+[![Python 3.8](https://github.com/NinaFatehi/flask/actions/workflows/main.yml/badge.svg)](https://github.com/NinaFatehi/flask/actions/workflows/main.yml)
 
-My first practice of Flask App!
+This project is a Flask application for generating random fruits.
